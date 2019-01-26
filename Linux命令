@@ -1,0 +1,15 @@
+ZIP文件
+解压：unzip xxx.zip
+压缩：zip -r xxx.zip directory_to_compress
+
+TAR文件
+解压：tar -xvf xxx.tar
+压缩: tar -xvf xxx.tar (-C 指定目录)
+
+TAR.GZ文件
+压缩：tar -zcvf xxx.tar.gz directory_to_compress
+解压：tar -zxvf xxx.tar.gz (-C指定目录)
+
+TAR.BZ2文件
+压缩： tar -jcvf xxx.tar.bz2 directory_to_compress
+解压： tar -jxvf xxx.tar.bz2   (-C指定目录)
