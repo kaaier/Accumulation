@@ -17,3 +17,10 @@ def postorder(self,root):
     self.postorder(root.left)
     self.postorder(root.right)
     self.traverse_path.append(root.val)
+
+
+
+
+leetcode102-------------------编程题目：二叉树的层次遍历
+
+1.BFS(判断当前节点是否是该层的末节点)
