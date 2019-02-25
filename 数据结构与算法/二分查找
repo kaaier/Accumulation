@@ -1,0 +1,6 @@
+1.sorted 单调
+2.bounded 存在上下界
+3.accessible by index 能够通过索引访问
+
+适合数组，不适合链表 
+
