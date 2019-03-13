@@ -13,3 +13,6 @@ TAR.GZ文件
 TAR.BZ2文件
 压缩： tar -jcvf xxx.tar.bz2 directory_to_compress
 解压： tar -jxvf xxx.tar.bz2   (-C指定目录)
+
+
+动态库：一个文件可以多个代码同时使用内存中只有一份，节省内存
